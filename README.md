@@ -26,3 +26,6 @@ and type the below command
 
 npm start
 
+you will see the application opened in localhost
+
+congratualtions for running the first react project. HAPPY ME ..
